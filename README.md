@@ -89,8 +89,8 @@ MCP server for natural-language querying of Azure Cosmos DB. Secrets-free by des
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChingEnLin&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=0d9488&text_color=8b949e&ring_color=0d9488" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChingEnLin&layout=compact&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=8b949e" height="165" alt="Top languages" />
+<img src="./profile/stats.svg" height="165" alt="GitHub stats" />
+<img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 
 <br/><br/>
 
