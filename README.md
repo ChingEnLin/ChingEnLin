@@ -8,7 +8,7 @@
 
 ```
 
-     ╭─────────────╮      ching-en-lin@cloud
+     ╭─────────────╮      ching-en-lin@virtonomy.io
      │ ●  ●  ●     │      ------------------
      │             │      Role.......: Cloud Infrastructure Architect
      │  >_         │      Kernel.....: kubernetes · terraform · helm · gitops
@@ -21,7 +21,6 @@
 
 ```console
 $ whoami
-
 Cloud Infrastructure Architect at Virtonomy, building the platform behind
 medical-device digital twins. I own cloud infrastructure end-to-end for a
 regulated clinical SaaS platform: Kubernetes, Terraform/Helm IaC, GitOps
