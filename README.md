@@ -16,9 +16,9 @@
 
 ## $ whoami
 
-Cloud Infrastructure Architect at [Virtonomy](https://virtonomy.io), building the platform behind medical-device digital twins. I own cloud infrastructure end-to-end for a regulated clinical SaaS platform — Kubernetes, Terraform/Helm IaC, GitOps pipelines, full LGTM-stack observability — across Azure, AWS, and GCP.
+Cloud Infrastructure Architect at [Virtonomy](https://virtonomy.io), building the platform behind medical-device digital twins. I own cloud infrastructure end-to-end for a regulated clinical SaaS platform: Kubernetes, Terraform/Helm IaC, GitOps pipelines, full LGTM-stack observability, across Azure, AWS, and GCP.
 
-Security and compliance are built into the pipeline, not bolted on: ISO 27001 ISMS implementation lead, SAST/DAST wired into CI/CD.
+Lately I'm deep in AI engineering: building MCP servers and agentic workflows, and wiring LLMs into real infrastructure.
 
 ```text
 platform  ██████████████████░░  kubernetes, terraform, helm, gitops, istio
@@ -69,7 +69,7 @@ frontend  ████████████░░░░░░░░  react 18
 <td width="50%" valign="top">
 
 ### QueryPal
-Full-stack query platform adopted by three internal teams. React 18 + TypeScript SPA, FastAPI backend, VPC-isolated on Cloud Run with Workload Identity Federation — keyless CI/CD, zero stored credentials. 85%+ backend / 80%+ frontend test coverage.
+Full-stack query platform adopted by three internal teams. React 18 + TypeScript SPA, FastAPI backend, VPC-isolated on Cloud Run with Workload Identity Federation: keyless CI/CD, zero stored credentials. 85%+ backend / 80%+ frontend test coverage.
 
 `react` `fastapi` `cloud-run` `terraform`
 
@@ -77,7 +77,7 @@ Full-stack query platform adopted by three internal teams. React 18 + TypeScript
 <td width="50%" valign="top">
 
 ### QueryMCPal
-MCP server for natural-language querying of Azure Cosmos DB. Secrets-free by design: Entra ID `az login` / OBO flow — no connection strings, no stored credentials, nothing to leak.
+MCP server for natural-language querying of Azure Cosmos DB. Secrets-free by design: Entra ID `az login` / OBO flow: no connection strings, no stored credentials, nothing to leak.
 
 `python` `mcp` `cosmos-db` `entra-id`
 
